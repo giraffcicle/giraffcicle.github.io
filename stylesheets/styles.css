@@ -7909,7 +7909,7 @@ body {
 .welcome-message {
   text-align: center;
   padding: 3em 2em;
-  margin: 4em auto 0;
+  margin: 50% auto;
   width: 70%;
   background-color: rgba(0, 0, 0, 0.5);
   -moz-border-radius: 5px;
@@ -7919,27 +7919,28 @@ body {
 
 /* line 25, ../sass/_construction.scss */
 h1 {
-  font-family: "adelle",serif;
-  color: #478a20;
+  font-family: "adelle-sans",sans-serif;
+  text-transform: uppercase;
+  color: #f68155;
   font-weight: 800;
   font-size: 60px;
 }
 
-/* line 32, ../sass/_construction.scss */
+/* line 33, ../sass/_construction.scss */
 h3 {
   font-family: "adelle-sans",sans-serif;
   color: #FFFFFF;
   font-size: 25px;
 }
 
-/* line 39, ../sass/_construction.scss */
+/* line 40, ../sass/_construction.scss */
 footer {
   text-align: center;
   margin: 1em auto 0;
   width: 70%;
 }
 
-/* line 45, ../sass/_construction.scss */
+/* line 46, ../sass/_construction.scss */
 footer > p {
   font-family: "adelle-sans",sans-serif;
   color: #FFFFFF;
