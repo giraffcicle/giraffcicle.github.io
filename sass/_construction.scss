@@ -22,19 +22,23 @@ body {
 	@include border-radius(5px);
 }
 
-.logo {
-	max-width: 800px;
+figure {
+	max-width: 90%;
 	padding: 2em 1em 1em;
 }
 
-h1 {
+.logo {
+
+}
+
+h3 {
 	font-family: "adelle-sans",sans-serif;
-	color: #ffa406;
+	color: #FFFFFF;
 	font-weight: 800;
 	font-size: 40px;
 }
 
-p {
+.welcome-message > p {
 	font-family: "adelle-sans",sans-serif;
 	color: #FFFFFF;
 	font-size: 20px;
