@@ -7919,11 +7919,15 @@ body {
 
 /* line 25, ../sass/_construction.scss */
 figure {
-  max-width: 90%;
   padding: 2em 1em 1em;
 }
 
-/* line 34, ../sass/_construction.scss */
+/* line 29, ../sass/_construction.scss */
+img.logo {
+  max-width: 600px;
+}
+
+/* line 33, ../sass/_construction.scss */
 h3 {
   font-family: "adelle-sans",sans-serif;
   color: #FFFFFF;
@@ -7931,21 +7935,21 @@ h3 {
   font-size: 40px;
 }
 
-/* line 41, ../sass/_construction.scss */
+/* line 40, ../sass/_construction.scss */
 .welcome-message > p {
   font-family: "adelle-sans",sans-serif;
   color: #FFFFFF;
   font-size: 20px;
 }
 
-/* line 48, ../sass/_construction.scss */
+/* line 47, ../sass/_construction.scss */
 footer {
   text-align: center;
   margin: 1em auto 0;
   width: 70%;
 }
 
-/* line 54, ../sass/_construction.scss */
+/* line 53, ../sass/_construction.scss */
 footer > p {
   font-family: "adelle-sans",sans-serif;
   color: #FFFFFF;
