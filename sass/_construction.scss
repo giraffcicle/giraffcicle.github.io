@@ -1,0 +1,49 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+  	background: url(imgs/background.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.welcome-message {
+	text-align: center;
+	padding: 3em 2em;
+	margin: 4em auto 0;
+	width: 70%;
+	background-color: rgba(#000000, .5);
+	@include border-radius(5px);
+}
+
+h1 {
+	font-family: "adelle",serif;
+	color: #478a20;
+	font-weight: 800;
+	font-size: 60px;
+}
+
+h3 {
+	font-family: "adelle-sans",sans-serif;
+	color: #FFFFFF;
+	font-size: 25px;
+}
+
+
+footer {
+	text-align: center;
+	margin: 1em auto 0;
+	width: 70%;
+}
+
+footer > p {
+	font-family: "adelle-sans",sans-serif;
+	color: #FFFFFF;
+	font-size: 12px;
+}
