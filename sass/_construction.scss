@@ -30,19 +30,19 @@ img.logo {
  max-width: 600px;
 }
 
-h3 {
-	font-family: "adelle-sans",sans-serif;
-	color: #FFFFFF;
-	font-weight: 800;
-	font-size: 40px;
-}
-
 .welcome-message > p {
 	font-family: "adelle-sans",sans-serif;
 	color: #FFFFFF;
-	font-size: 20px;
+	font-size: 16px;
 }
 
+.welcome-message > hr {
+    border: 0;
+    height: 1px;
+    background: #EDB61D;
+    width: 30%;
+    margin: 0 0 1em;
+}
 
 footer {
 	text-align: center;

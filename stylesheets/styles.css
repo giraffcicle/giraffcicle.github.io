@@ -7928,18 +7928,19 @@ img.logo {
 }
 
 /* line 33, ../sass/_construction.scss */
-h3 {
-  font-family: "adelle-sans",sans-serif;
-  color: #FFFFFF;
-  font-weight: 800;
-  font-size: 40px;
-}
-
-/* line 40, ../sass/_construction.scss */
 .welcome-message > p {
   font-family: "adelle-sans",sans-serif;
   color: #FFFFFF;
-  font-size: 20px;
+  font-size: 16px;
+}
+
+/* line 39, ../sass/_construction.scss */
+.welcome-message > hr {
+  border: 0;
+  height: 1px;
+  background: #EDB61D;
+  width: 30%;
+  margin: 0 0 1em;
 }
 
 /* line 47, ../sass/_construction.scss */
