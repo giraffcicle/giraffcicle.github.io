@@ -22,17 +22,22 @@ body {
 	@include border-radius(5px);
 }
 
+.logo {
+	max-width: 800px;
+	padding: 2em 1em 1em;
+}
+
 h1 {
 	font-family: "adelle-sans",sans-serif;
 	color: #ffa406;
 	font-weight: 800;
-	font-size: 60px;
+	font-size: 40px;
 }
 
-h3 {
+p {
 	font-family: "adelle-sans",sans-serif;
 	color: #FFFFFF;
-	font-size: 25px;
+	font-size: 20px;
 }
 
 
